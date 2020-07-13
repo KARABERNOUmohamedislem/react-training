@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "Task": "Create event's website",
+      "priority": "normal",
+      "status": "pending",
+      "created_at": "09/07/2020"
+    },
+    {
+      "id": 2,
+      "Task": "Design the event posters",
+      "priority": "urgent",
+      "status": "pending",
+      "created_at": "09/07/2020"
+    },
+    {
+      "id": 3,
+      "Task": "Make the organizers list",
+      "priority": "urgent",
+      "status": "in-progress",
+      "created_at": "09/07/2020"
+    },
+    {
+      "id": 4,
+      "Task": "learn react",
+      "priority": "urgent",
+      "status": "pending",
+      "created_at": "2020/7/10"
+    },
+    {
+      "id": 5,
+      "Task": "",
+      "priority": "",
+      "status": "pending",
+      "created_at": "2020/7/10"
+    }
+  ]
+}
